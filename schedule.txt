@@ -1,0 +1,3 @@
+1. "Ромео и Джульетта" - 15 июня, 19:00 - https://example.com/tickets/1
+2. "Гамлет" - 16 июня, 18:30 - https://example.com/tickets/2
+3. "Щелкунчик" - 17 июня, 20:00 - https://example.com/tickets/3
